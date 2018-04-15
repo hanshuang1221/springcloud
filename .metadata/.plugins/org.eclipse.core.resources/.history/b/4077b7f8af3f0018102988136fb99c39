@@ -1,0 +1,21 @@
+package cn.foreverking.custommer.server.service;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@FeignClient("move-service")
+public interface HelloService {
+
+	@RequestMapping("/hello")
+	String hello();
+	
+	@RequestMapping("/hello1")
+	String hello();
+	
+	@RequestMapping("/hello2")
+	String hello();
+	
+	@RequestMapping("/hello3")
+	String hello();
+	
+}

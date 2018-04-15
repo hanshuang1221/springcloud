@@ -1,0 +1,44 @@
+package cn.foreverking.move.server.controller;
+
+import org.jboss.logging.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cloud.client.discovery.DiscoveryClient;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import cn.foreverking.move.server.po.UserPO;
+
+@RestController
+public class HelloController {
+	private final Logger log = Logger.getLogger(HelloController.class);
+
+	@Autowired
+	private DiscoveryClient client;
+
+	@RequestMapping(value = "/hello", method = RequestMethod.GET)
+	public String index() {
+		log.info("Hello world! server2");
+		return "Hello world! server2";
+	}
+
+	@RequestMapping(value = "/hello1", method = RequestMethod.GET)
+	public String index(@RequestParam String name) {
+		log.info("server2： " + name);
+		return "Hello " + name;
+	}
+
+	@RequestMapping(value = "/hello2", method = RequestMethod.GET)
+	public String index(@RequestParam String name, @RequestParam int age) {
+		log.info("server2： " + age);
+		return "Hello " + age;
+	}
+
+	@RequestMapping(value = "/hello3", method = RequestMethod.POST)
+	public String index(@RequestBody UserPO user) {
+		log.info("server2： " + user);
+		return "Hello " + user.getName();
+	}
+}

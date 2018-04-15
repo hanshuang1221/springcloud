@@ -1,0 +1,29 @@
+package cn.foreverking.custommer.server.service;
+
+import cn.foreverking.custommer.server.po.UserPO;
+
+public class HelloServiceFallback implements HelloService {
+
+	@Override
+	public String hello() {
+		return "error";
+	}
+
+	@Override
+	public String hello(String name) {
+		return "error";
+	}
+
+	@Override
+	public String hello(String name, int age) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String hello(UserPO user) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

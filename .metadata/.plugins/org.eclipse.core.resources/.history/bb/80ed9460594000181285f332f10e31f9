@@ -1,0 +1,17 @@
+package cn.foreverking.config.server;
+
+import org.springframework.cloud.client.SpringCloudApplication;
+
+/**
+ * Hello world!
+ *
+ */
+@SpringCloudApplication
+@EnableConfigServer
+public class ConfigServerApplication 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

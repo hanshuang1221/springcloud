@@ -1,0 +1,6 @@
+server.port=7001
+spring.application.name=config-server
+#\u6CE8\u518C\u4E2D\u5FC3
+eureka.client.serviceUrl.defaultZone=http://localhost:1111/eureka/
+
+spring.cloud.config.server.git.uri=

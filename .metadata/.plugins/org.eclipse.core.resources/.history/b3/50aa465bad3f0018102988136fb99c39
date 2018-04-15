@@ -1,0 +1,13 @@
+package cn.foreverking.custommer.server.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import cn.foreverking.custommer.server.service.HelloService;
+
+@RestController
+public class HelloController {
+
+	@Autowired
+	HelloService helloService;
+}

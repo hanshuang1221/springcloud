@@ -1,0 +1,17 @@
+package cn.foreverking.eureka.server;
+
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
+
+/**
+ * Hello world!
+ *
+ */
+
+@SpringBootApplication
+@EnableEurekaServer
+public class EurekaServer1Application {
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}

@@ -1,0 +1,20 @@
+package cn.foreverking.move.server.controller;
+
+import org.jboss.logging.Logger;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.netflix.discovery.DiscoveryClient;
+
+@RestController
+public class HelloController {
+	private final Logger log = Logger.getLogger(HelloController.class);
+
+	private DiscoveryClient client;
+
+	
+	@RequestMapping(value="")
+	public String index() {
+
+	}
+}

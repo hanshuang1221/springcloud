@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: cn.foreverking.api-geteway
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: wy
+Implementation-Vendor-Id: cn.foreverking.api-geteway
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cn.foreverking.api-geteway
+Created-By: Maven Integration for Eclipse
+

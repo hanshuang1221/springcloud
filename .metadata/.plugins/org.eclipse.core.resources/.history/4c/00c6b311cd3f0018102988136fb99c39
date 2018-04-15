@@ -1,0 +1,11 @@
+server.port=9000
+spring.application.name=api-gateway
+#\u6CE8\u518C\u4E2D\u5FC3
+eureka.client.serviceUrl.defaultZone=http://localhost:1111/eureka/
+
+#\u5F00\u542F\u5BB9\u9519\u4FDD\u62A4
+feign.hystrix.enabled=true
+
+#\u5F00\u542F\u8BF7\u6C42\u538B\u7F29
+feign.compression.request.enabled=true
+feign.compression.response.enabled=true

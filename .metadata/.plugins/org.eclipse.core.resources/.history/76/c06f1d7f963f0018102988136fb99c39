@@ -1,0 +1,5 @@
+package cn.foreverking.move.server.controller;
+
+public class HelloController {
+
+}

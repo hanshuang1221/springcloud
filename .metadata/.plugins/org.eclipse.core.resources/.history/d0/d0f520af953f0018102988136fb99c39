@@ -1,0 +1,13 @@
+package cn.foreverking.move.server;
+
+/**
+ * Hello world!
+ *
+ */
+public class MoveServerApplication 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
