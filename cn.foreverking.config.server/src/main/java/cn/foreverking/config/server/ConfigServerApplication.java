@@ -1,18 +1,17 @@
 package cn.foreverking.config.server;
 
-import org.springframework.cloud.client.SpringCloudApplication;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
 
 /**
  * Hello world!
  *
  */
-@SpringCloudApplication
+@SpringBootApplication
 @EnableConfigServer
-public class ConfigServerApplication 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public class ConfigServerApplication {
+	public static void main(String[] args) {
+		SpringApplication.run(ConfigServerApplication.class, args);
+	}
 }

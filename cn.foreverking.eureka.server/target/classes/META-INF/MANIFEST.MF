@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: cn.foreverking.eureka.server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: wy
+Implementation-Vendor-Id: cn.foreverking.eureka.server
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cn.foreverking.eureka.server
+Created-By: Maven Integration for Eclipse
+

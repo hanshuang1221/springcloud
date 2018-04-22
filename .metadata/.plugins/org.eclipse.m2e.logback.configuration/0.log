@@ -5337,3 +5337,914 @@ org.apache.maven.archetype.exception.UnknownArchetype: The desired archetype doe
 2018-04-15 11:05:52,186 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-04-15 11:05:52,191 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-04-15 11:05:52,191 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloudStudy\cn.foreverking.config.server\src\test\resources
+2018-04-15 11:13:06,678 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-04-15 11:16:36,867 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:16:36,874 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 11:16:36,900 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:16:36,905 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:16:36,905 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 11:18:34,714 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:18:34,720 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 11:18:34,724 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:18:34,729 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:18:34,729 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 11:19:46,481 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.config.server:cn.foreverking.config.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.config.server\pom.xml.
+2018-04-15 11:19:47,325 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:19:47,325 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:19:47,325 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:19:47,329 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:19:47,329 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 11:20:01,683 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.config.server:cn.foreverking.config.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.config.server\pom.xml.
+2018-04-15 11:20:03,055 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:20:03,061 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:20:03,062 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:20:03,066 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:20:03,067 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 11:20:05,245 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:20:05,246 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 11:20:05,312 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:20:05,327 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:20:05,328 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 11:22:20,994 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.config.server:cn.foreverking.config.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.config.server\pom.xml.
+2018-04-15 11:22:22,296 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:22:22,331 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:22:22,332 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:22:22,340 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:22:22,342 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 11:22:39,601 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.config.server:cn.foreverking.config.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.config.server\pom.xml.
+2018-04-15 11:22:40,850 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:22:40,855 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:22:40,855 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:22:40,859 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:22:40,859 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 11:22:57,835 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.config.server:cn.foreverking.config.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.config.server\pom.xml.
+2018-04-15 11:22:59,179 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:22:59,185 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:22:59,185 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:22:59,190 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:22:59,190 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 11:23:12,628 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-15 11:23:13,323 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.config.server:cn.foreverking.config.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.config.server\pom.xml.
+2018-04-15 11:23:13,969 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.config.server/src/main/java
+2018-04-15 11:23:13,970 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.config.server/src/main/resources
+2018-04-15 11:23:13,971 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.config.server/src/main/resources
+2018-04-15 11:23:13,971 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.config.server/src/test/java
+2018-04-15 11:23:14,424 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-15 11:23:15,358 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:23:15,360 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 11:23:15,392 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:23:15,396 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:23:15,396 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 11:23:51,872 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:23:51,875 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 11:23:51,879 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:23:51,882 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:23:51,883 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 11:23:55,174 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:23:55,175 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 11:23:55,177 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 11:23:55,180 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 11:23:55,180 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 12:48:12,835 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\springcloud\cn.foreverking.rabbitmq\pom.xml
+2018-04-15 12:48:13,440 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 12:48:13,991 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/main/java
+2018-04-15 12:48:13,998 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/test/java
+2018-04-15 12:48:14,176 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-04-15 12:48:16,349 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:48:16,349 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:48:16,353 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:48:16,353 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\test\resources
+2018-04-15 12:48:32,193 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:48:32,193 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:48:32,195 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:48:32,196 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\test\resources
+2018-04-15 12:48:33,255 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:48:33,256 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:48:33,257 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:48:33,258 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\test\resources
+2018-04-15 12:48:59,980 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 12:49:00,341 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:49:00,342 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:49:00,344 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:49:00,344 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\test\resources
+2018-04-15 12:49:02,080 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:49:02,080 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:49:02,082 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:49:02,082 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\test\resources
+2018-04-15 12:51:28,126 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 12:51:39,643 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 12:51:50,084 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 12:51:50,201 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-amqp/2.0.1.RELEASE/spring-boot-starter-amqp-2.0.1.RELEASE.pom
+2018-04-15 12:51:50,231 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-amqp/2.0.1.RELEASE/spring-boot-starter-amqp-2.0.1.RELEASE.pom
+2018-04-15 12:51:50,285 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-amqp/2.0.1.RELEASE/spring-boot-starter-amqp-2.0.1.RELEASE.pom
+2018-04-15 12:51:50,318 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-amqp/2.0.1.RELEASE/spring-boot-starter-amqp-2.0.1.RELEASE.pom
+2018-04-15 12:51:50,620 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE.pom
+2018-04-15 12:51:50,627 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE.pom
+2018-04-15 12:51:50,703 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE.pom
+2018-04-15 12:51:50,718 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE.pom
+2018-04-15 12:51:50,833 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.pom
+2018-04-15 12:51:50,844 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.pom
+2018-04-15 12:51:50,919 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.pom
+2018-04-15 12:51:50,936 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.pom
+2018-04-15 12:51:51,044 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.pom
+2018-04-15 12:51:51,046 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.pom
+2018-04-15 12:51:51,134 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.pom
+2018-04-15 12:51:51,140 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.pom
+2018-04-15 12:51:51,262 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.pom
+2018-04-15 12:51:51,265 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.pom
+2018-04-15 12:51:51,484 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.pom
+2018-04-15 12:51:51,501 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.pom
+2018-04-15 12:51:51,610 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/http-client/2.0.1.RELEASE/http-client-2.0.1.RELEASE.pom
+2018-04-15 12:51:51,612 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/http-client/2.0.1.RELEASE/http-client-2.0.1.RELEASE.pom
+2018-04-15 12:51:51,711 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/http-client/2.0.1.RELEASE/http-client-2.0.1.RELEASE.pom
+2018-04-15 12:51:51,717 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/http-client/2.0.1.RELEASE/http-client-2.0.1.RELEASE.pom
+2018-04-15 12:51:51,818 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/reactor-bom/Bismuth-SR3/reactor-bom-Bismuth-SR3.pom
+2018-04-15 12:51:51,826 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/reactor-bom/Bismuth-SR3/reactor-bom-Bismuth-SR3.pom
+2018-04-15 12:51:51,901 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/reactor-bom/Bismuth-SR3/reactor-bom-Bismuth-SR3.pom
+2018-04-15 12:51:51,954 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/reactor-bom/Bismuth-SR3/reactor-bom-Bismuth-SR3.pom
+2018-04-15 12:51:52,071 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-webflux/5.0.5.RELEASE/spring-webflux-5.0.5.RELEASE.pom
+2018-04-15 12:51:52,074 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-webflux/5.0.5.RELEASE/spring-webflux-5.0.5.RELEASE.pom
+2018-04-15 12:51:52,160 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-webflux/5.0.5.RELEASE/spring-webflux-5.0.5.RELEASE.pom
+2018-04-15 12:51:52,171 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-webflux/5.0.5.RELEASE/spring-webflux-5.0.5.RELEASE.pom
+2018-04-15 12:51:52,289 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/reactor-core/3.1.6.RELEASE/reactor-core-3.1.6.RELEASE.pom
+2018-04-15 12:51:52,290 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/reactor-core/3.1.6.RELEASE/reactor-core-3.1.6.RELEASE.pom
+2018-04-15 12:51:52,377 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/reactor-core/3.1.6.RELEASE/reactor-core-3.1.6.RELEASE.pom
+2018-04-15 12:51:52,386 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/reactor-core/3.1.6.RELEASE/reactor-core-3.1.6.RELEASE.pom
+2018-04-15 12:51:52,569 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/ipc/reactor-netty/0.7.6.RELEASE/reactor-netty-0.7.6.RELEASE.pom
+2018-04-15 12:51:52,571 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/ipc/reactor-netty/0.7.6.RELEASE/reactor-netty-0.7.6.RELEASE.pom
+2018-04-15 12:51:52,649 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/ipc/reactor-netty/0.7.6.RELEASE/reactor-netty-0.7.6.RELEASE.pom
+2018-04-15 12:51:52,655 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/ipc/reactor-netty/0.7.6.RELEASE/reactor-netty-0.7.6.RELEASE.pom
+2018-04-15 12:51:52,818 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler/4.1.23.Final/netty-handler-4.1.23.Final.pom
+2018-04-15 12:51:52,819 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler/4.1.23.Final/netty-handler-4.1.23.Final.pom
+2018-04-15 12:51:52,895 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler/4.1.23.Final/netty-handler-4.1.23.Final.pom
+2018-04-15 12:51:52,900 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler/4.1.23.Final/netty-handler-4.1.23.Final.pom
+2018-04-15 12:51:53,032 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler-proxy/4.1.23.Final/netty-handler-proxy-4.1.23.Final.pom
+2018-04-15 12:51:53,036 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler-proxy/4.1.23.Final/netty-handler-proxy-4.1.23.Final.pom
+2018-04-15 12:51:53,123 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler-proxy/4.1.23.Final/netty-handler-proxy-4.1.23.Final.pom
+2018-04-15 12:51:53,132 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler-proxy/4.1.23.Final/netty-handler-proxy-4.1.23.Final.pom
+2018-04-15 12:51:53,252 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-socks/4.1.23.Final/netty-codec-socks-4.1.23.Final.pom
+2018-04-15 12:51:53,257 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-socks/4.1.23.Final/netty-codec-socks-4.1.23.Final.pom
+2018-04-15 12:51:53,346 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-socks/4.1.23.Final/netty-codec-socks-4.1.23.Final.pom
+2018-04-15 12:51:53,365 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-socks/4.1.23.Final/netty-codec-socks-4.1.23.Final.pom
+2018-04-15 12:51:53,472 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-tx/5.0.5.RELEASE/spring-tx-5.0.5.RELEASE.pom
+2018-04-15 12:51:53,476 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-tx/5.0.5.RELEASE/spring-tx-5.0.5.RELEASE.pom
+2018-04-15 12:51:53,557 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-tx/5.0.5.RELEASE/spring-tx-5.0.5.RELEASE.pom
+2018-04-15 12:51:53,569 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-tx/5.0.5.RELEASE/spring-tx-5.0.5.RELEASE.pom
+2018-04-15 12:51:53,694 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.pom
+2018-04-15 12:51:53,696 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.pom
+2018-04-15 12:51:53,776 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.pom
+2018-04-15 12:51:53,784 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.pom
+2018-04-15 12:51:53,886 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.3.13.RELEASE/spring-framework-bom-4.3.13.RELEASE.pom
+2018-04-15 12:51:53,896 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.3.13.RELEASE/spring-framework-bom-4.3.13.RELEASE.pom
+2018-04-15 12:51:53,968 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.3.13.RELEASE/spring-framework-bom-4.3.13.RELEASE.pom
+2018-04-15 12:51:53,981 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.3.13.RELEASE/spring-framework-bom-4.3.13.RELEASE.pom
+2018-04-15 12:51:54,276 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-amqp/2.0.1.RELEASE/spring-boot-starter-amqp-2.0.1.RELEASE.jar
+2018-04-15 12:51:54,279 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-amqp/2.0.1.RELEASE/spring-boot-starter-amqp-2.0.1.RELEASE.jar
+2018-04-15 12:51:54,365 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-amqp/2.0.1.RELEASE/spring-boot-starter-amqp-2.0.1.RELEASE.jar
+2018-04-15 12:51:54,380 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-amqp/2.0.1.RELEASE/spring-boot-starter-amqp-2.0.1.RELEASE.jar
+2018-04-15 12:51:54,465 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE.jar
+2018-04-15 12:51:54,468 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE.jar
+2018-04-15 12:51:55,217 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE.jar
+2018-04-15 12:51:55,232 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-messaging/5.0.5.RELEASE/spring-messaging-5.0.5.RELEASE.jar
+2018-04-15 12:51:55,318 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.jar
+2018-04-15 12:51:55,318 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.jar
+2018-04-15 12:51:55,720 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.jar
+2018-04-15 12:51:55,736 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-rabbit/2.0.3.RELEASE/spring-rabbit-2.0.3.RELEASE.jar
+2018-04-15 12:51:55,824 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.jar
+2018-04-15 12:51:55,826 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.jar
+2018-04-15 12:51:55,940 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.jar
+2018-04-15 12:51:55,998 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-amqp/2.0.3.RELEASE/spring-amqp-2.0.3.RELEASE.jar
+2018-04-15 12:51:56,060 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.jar
+2018-04-15 12:51:56,091 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.jar
+2018-04-15 12:51:56,384 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.jar
+2018-04-15 12:51:56,518 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2.jar
+2018-04-15 12:51:56,525 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/http-client/2.0.1.RELEASE/http-client-2.0.1.RELEASE.jar
+2018-04-15 12:51:56,600 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/http-client/2.0.1.RELEASE/http-client-2.0.1.RELEASE.jar
+2018-04-15 12:51:56,625 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/http-client/2.0.1.RELEASE/http-client-2.0.1.RELEASE.jar
+2018-04-15 12:51:56,700 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/http-client/2.0.1.RELEASE/http-client-2.0.1.RELEASE.jar
+2018-04-15 12:51:56,733 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-webflux/5.0.5.RELEASE/spring-webflux-5.0.5.RELEASE.jar
+2018-04-15 12:51:56,782 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-webflux/5.0.5.RELEASE/spring-webflux-5.0.5.RELEASE.jar
+2018-04-15 12:51:57,113 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-webflux/5.0.5.RELEASE/spring-webflux-5.0.5.RELEASE.jar
+2018-04-15 12:51:57,201 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-webflux/5.0.5.RELEASE/spring-webflux-5.0.5.RELEASE.jar
+2018-04-15 12:51:57,216 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/reactor-core/3.1.6.RELEASE/reactor-core-3.1.6.RELEASE.jar
+2018-04-15 12:51:57,284 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/reactor-core/3.1.6.RELEASE/reactor-core-3.1.6.RELEASE.jar
+2018-04-15 12:51:57,973 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/reactor-core/3.1.6.RELEASE/reactor-core-3.1.6.RELEASE.jar
+2018-04-15 12:51:58,074 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/ipc/reactor-netty/0.7.6.RELEASE/reactor-netty-0.7.6.RELEASE.jar
+2018-04-15 12:51:58,295 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/ipc/reactor-netty/0.7.6.RELEASE/reactor-netty-0.7.6.RELEASE.jar
+2018-04-15 12:51:58,396 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler/4.1.23.Final/netty-handler-4.1.23.Final.jar
+2018-04-15 12:51:58,419 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/reactor-core/3.1.6.RELEASE/reactor-core-3.1.6.RELEASE.jar
+2018-04-15 12:51:58,498 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/ipc/reactor-netty/0.7.6.RELEASE/reactor-netty-0.7.6.RELEASE.jar
+2018-04-15 12:51:58,775 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/ipc/reactor-netty/0.7.6.RELEASE/reactor-netty-0.7.6.RELEASE.jar
+2018-04-15 12:51:58,863 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler/4.1.23.Final/netty-handler-4.1.23.Final.jar
+2018-04-15 12:51:59,121 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler/4.1.23.Final/netty-handler-4.1.23.Final.jar
+2018-04-15 12:51:59,224 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler-proxy/4.1.23.Final/netty-handler-proxy-4.1.23.Final.jar
+2018-04-15 12:51:59,313 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler-proxy/4.1.23.Final/netty-handler-proxy-4.1.23.Final.jar
+2018-04-15 12:51:59,419 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-socks/4.1.23.Final/netty-codec-socks-4.1.23.Final.jar
+2018-04-15 12:51:59,530 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-socks/4.1.23.Final/netty-codec-socks-4.1.23.Final.jar
+2018-04-15 12:51:59,533 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler/4.1.23.Final/netty-handler-4.1.23.Final.jar
+2018-04-15 12:51:59,621 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler-proxy/4.1.23.Final/netty-handler-proxy-4.1.23.Final.jar
+2018-04-15 12:51:59,631 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-tx/5.0.5.RELEASE/spring-tx-5.0.5.RELEASE.jar
+2018-04-15 12:51:59,702 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler-proxy/4.1.23.Final/netty-handler-proxy-4.1.23.Final.jar
+2018-04-15 12:51:59,785 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-socks/4.1.23.Final/netty-codec-socks-4.1.23.Final.jar
+2018-04-15 12:51:59,845 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-tx/5.0.5.RELEASE/spring-tx-5.0.5.RELEASE.jar
+2018-04-15 12:51:59,937 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-socks/4.1.23.Final/netty-codec-socks-4.1.23.Final.jar
+2018-04-15 12:51:59,949 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.jar
+2018-04-15 12:52:00,015 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-tx/5.0.5.RELEASE/spring-tx-5.0.5.RELEASE.jar
+2018-04-15 12:52:00,061 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.jar
+2018-04-15 12:52:00,360 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-tx/5.0.5.RELEASE/spring-tx-5.0.5.RELEASE.jar
+2018-04-15 12:52:00,438 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.jar
+2018-04-15 12:52:00,601 [Worker-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.jar
+2018-04-15 12:52:01,496 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.move.server:cn.foreverking.move.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.move.server\pom.xml.
+2018-04-15 12:52:02,327 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.eureka.server:cn.foreverking.eureka.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.eureka.server\pom.xml.
+2018-04-15 12:52:02,937 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.custommer.server:cn.foreverking.custommer.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.customer.server\pom.xml.
+2018-04-15 12:52:03,425 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.move.server:cn.foreverking.move.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.move.server1\pom.xml.
+2018-04-15 12:52:03,946 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.api-geteway:cn.foreverking.api-geteway:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.api-geteway\pom.xml.
+2018-04-15 12:52:04,548 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.dynamic.route:cn.foreverking.dynamic.route:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.dynamic.route\pom.xml.
+2018-04-15 12:52:04,894 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.config.server:cn.foreverking.config.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.config.server\pom.xml.
+2018-04-15 12:52:06,975 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:06,975 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:52:06,975 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:52:06,978 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:06,978 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\test\resources
+2018-04-15 12:52:09,304 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:09,304 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 12:52:09,308 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:52:09,312 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:09,312 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.api-geteway\src\test\resources
+2018-04-15 12:52:09,959 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:09,960 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 12:52:09,962 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:52:09,965 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:09,966 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 12:52:11,246 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:11,251 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 12:52:11,253 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:52:11,257 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:11,257 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.customer.server\src\test\resources
+2018-04-15 12:52:12,546 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:12,547 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:52:12,547 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-15 12:52:12,550 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:12,551 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.dynamic.route\src\test\resources
+2018-04-15 12:52:13,551 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:13,553 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 12:52:13,555 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:52:13,558 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:13,558 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.eureka.server\src\test\resources
+2018-04-15 12:52:14,476 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:14,476 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 12:52:14,478 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:52:14,481 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:14,482 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.move.server\src\test\resources
+2018-04-15 12:52:15,672 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:15,672 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 12:52:15,674 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:52:15,678 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:15,679 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.move.server1\src\test\resources
+2018-04-15 12:52:16,051 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 12:52:16,568 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:16,568 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:52:16,569 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:52:16,571 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:16,572 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\test\resources
+2018-04-15 12:52:50,325 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-15 12:52:50,657 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.eureka.server:cn.foreverking.eureka.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.eureka.server\pom.xml.
+2018-04-15 12:52:51,538 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.eureka.server/src/main/java
+2018-04-15 12:52:51,539 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.eureka.server/src/main/resources
+2018-04-15 12:52:51,539 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.eureka.server/src/main/resources
+2018-04-15 12:52:51,540 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.eureka.server/src/test/java
+2018-04-15 12:52:52,113 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-15 12:52:53,104 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:53,104 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 12:52:53,106 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:52:53,109 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:52:53,109 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.eureka.server\src\test\resources
+2018-04-15 12:53:19,882 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 12:53:20,497 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:53:20,497 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:53:20,497 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:53:20,501 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:53:20,501 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\test\resources
+2018-04-15 12:53:33,352 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-15 12:53:33,623 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 12:53:34,014 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/main/java
+2018-04-15 12:53:34,015 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/test/java
+2018-04-15 12:53:34,307 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-04-15 12:53:35,055 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:53:35,055 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:53:35,055 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:53:35,058 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:53:35,058 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\test\resources
+2018-04-15 12:54:12,213 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 12:54:12,810 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:54:12,811 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:54:12,811 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 12:54:12,814 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:54:12,814 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\test\resources
+2018-04-15 12:56:29,262 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:56:29,265 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:56:29,265 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:56:29,268 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:56:29,268 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:57:46,292 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:57:46,293 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:57:46,293 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 12:57:46,295 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 12:57:46,295 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:25:52,032 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-15 13:25:52,379 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:25:52,886 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/main/java
+2018-04-15 13:25:52,886 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 13:25:52,897 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 13:25:52,903 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/test/java
+2018-04-15 13:25:52,904 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/test/resources
+2018-04-15 13:25:53,287 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-15 13:25:54,118 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:25:54,118 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:25:54,119 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:25:54,123 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:25:54,123 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:26:38,566 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\springcloud\cn.foreverking.rabbitmq\pom.xml
+2018-04-15 13:26:39,015 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:26:39,472 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/main/java
+2018-04-15 13:26:39,478 [Worker-25] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/test/java
+2018-04-15 13:26:39,584 [Worker-25] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-04-15 13:26:40,130 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:26:40,130 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\main\resources
+2018-04-15 13:26:40,132 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:26:40,133 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.rabbitmq\src\test\resources
+2018-04-15 13:28:48,574 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:28:48,578 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:28:48,579 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:28:48,580 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:29:32,433 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:29:32,434 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:29:32,436 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:29:32,436 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:29:51,336 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:29:51,337 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:29:51,338 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:29:51,339 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:30:15,421 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:30:15,422 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:30:15,423 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:30:15,424 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:30:56,406 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:30:56,406 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:30:56,407 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:30:56,410 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:31:17,469 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:31:30,181 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:31:43,976 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:31:58,647 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:31:59,339 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:31:59,339 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:31:59,339 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:31:59,342 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:31:59,342 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:33:06,360 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:33:06,361 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:33:06,361 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:33:06,364 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:33:06,364 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:33:19,220 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:33:19,221 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:33:19,223 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:33:19,226 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:33:19,227 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:33:48,270 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:33:48,271 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:33:48,273 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:33:48,276 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:33:48,276 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:33:58,005 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:33:58,005 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:33:58,007 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:33:58,009 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:33:58,010 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:34:34,518 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:34:34,518 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:34:34,520 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:34:34,522 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:34:34,522 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:34:41,057 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:34:41,058 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:34:41,060 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:34:41,062 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:34:41,063 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:35:27,532 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:35:27,533 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:35:27,535 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:35:27,538 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:35:27,539 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:36:52,256 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:36:52,257 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:36:52,257 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:36:52,260 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:36:52,260 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:37:05,031 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:37:05,031 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:37:05,032 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:37:05,034 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:37:05,035 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:37:39,961 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:37:39,961 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:37:39,962 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:37:39,964 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:37:39,965 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:38:10,857 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:38:10,857 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:38:10,857 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:38:10,859 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:38:10,859 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:38:26,490 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:38:26,491 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:38:26,491 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:38:26,493 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:38:26,494 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:38:47,436 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:38:47,436 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:38:47,437 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:38:47,438 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:38:47,439 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:38:57,023 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:38:57,024 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:38:57,024 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:38:57,027 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:38:57,028 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:39:12,310 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:39:12,311 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:39:12,311 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:39:12,313 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:39:12,313 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:39:16,275 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:39:16,276 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:39:16,276 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:39:16,277 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:39:16,278 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:39:18,157 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:39:18,157 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:39:18,157 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:39:18,159 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:39:18,160 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:39:46,387 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:39:46,388 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:39:46,388 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:39:46,391 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:39:46,391 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:40:46,048 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:40:46,048 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:40:46,049 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:40:46,052 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:40:46,052 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:42:16,555 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:42:16,556 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:42:16,556 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:42:16,559 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:42:16,559 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:43:29,426 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:43:29,427 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:43:29,427 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:43:29,430 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:43:29,430 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:43:41,781 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:43:41,782 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:43:41,782 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:43:41,784 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:43:41,784 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:43:45,215 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:43:45,215 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:43:45,215 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:43:45,217 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:43:45,217 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:44:22,148 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-15 13:44:22,643 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:44:23,353 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/main/java
+2018-04-15 13:44:23,353 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 13:44:23,364 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 13:44:23,365 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/test/java
+2018-04-15 13:44:23,365 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/test/resources
+2018-04-15 13:44:23,953 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-15 13:44:25,009 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:44:25,010 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:44:25,012 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:44:25,014 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:44:25,015 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:44:48,508 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:44:48,509 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:44:48,509 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:44:48,512 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:44:48,512 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:46:42,039 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:46:42,039 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:46:42,039 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:46:42,041 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:46:42,041 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:47:38,663 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:47:38,663 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:47:38,663 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:47:38,665 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:47:38,665 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:52:50,001 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:52:50,001 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:52:50,001 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:52:50,003 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:52:50,004 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:53:03,386 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:53:04,211 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:53:04,211 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:53:04,212 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:53:04,214 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:53:04,214 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:53:06,029 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:53:07,053 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:53:07,053 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:53:07,054 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:53:07,056 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:53:07,057 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:53:36,162 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:53:44,119 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:53:47,514 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:53:49,546 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:53:54,959 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-15 13:53:55,200 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:53:55,792 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/main/java
+2018-04-15 13:53:55,792 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 13:53:55,792 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 13:53:55,793 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/test/java
+2018-04-15 13:53:55,793 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/test/resources
+2018-04-15 13:53:56,093 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-15 13:54:00,770 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:54:10,884 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-15 13:54:11,283 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:54:11,830 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/main/java
+2018-04-15 13:54:11,830 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 13:54:11,831 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 13:54:11,831 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/test/java
+2018-04-15 13:54:11,832 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/test/resources
+2018-04-15 13:54:12,191 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-15 13:54:21,997 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:54:22,393 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:54:22,394 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:54:22,394 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:54:22,396 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:54:22,397 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:54:24,940 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:54:25,427 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:54:25,427 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:54:25,427 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:54:25,429 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:54:25,430 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:54:31,052 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-15 13:54:31,370 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:54:31,758 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/main/java
+2018-04-15 13:54:31,758 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 13:54:31,758 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 13:54:31,759 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/test/java
+2018-04-15 13:54:31,759 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/test/resources
+2018-04-15 13:54:32,044 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-04-15 13:54:32,587 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:54:32,588 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:54:32,594 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:54:32,596 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:54:32,597 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:17,628 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:17,628 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:17,628 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:17,630 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:17,631 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.api-geteway\src\test\resources
+2018-04-15 13:55:18,180 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:18,181 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:18,181 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:18,183 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:18,183 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 13:55:18,197 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:18,197 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:18,198 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:18,200 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:18,200 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.customer.server\src\test\resources
+2018-04-15 13:55:18,215 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:18,215 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:18,215 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:18,217 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:18,217 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.dynamic.route\src\test\resources
+2018-04-15 13:55:19,015 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:19,016 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:19,016 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:19,021 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:19,021 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.eureka.server\src\test\resources
+2018-04-15 13:55:19,937 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:19,937 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:19,937 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:19,939 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:19,939 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.move.server\src\test\resources
+2018-04-15 13:55:20,565 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:20,565 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:20,566 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:20,567 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:20,567 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.move.server1\src\test\resources
+2018-04-15 13:55:20,955 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:20,955 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:20,955 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:20,957 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:20,958 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:23,035 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:23,035 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:23,035 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:23,037 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:23,038 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:29,518 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-15 13:55:29,741 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 13:55:30,234 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/main/java
+2018-04-15 13:55:30,235 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 13:55:30,236 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 13:55:30,237 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/test/java
+2018-04-15 13:55:30,237 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/test/resources
+2018-04-15 13:55:30,610 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-15 13:55:31,183 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:31,183 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:55:31,185 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:31,186 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:31,187 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:43,773 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:43,774 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:55:43,799 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:43,802 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:43,803 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.api-geteway\src\test\resources
+2018-04-15 13:55:44,804 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:44,805 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:55:44,807 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:44,809 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:44,809 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 13:55:46,070 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:46,071 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:55:46,073 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:46,076 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:46,076 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.customer.server\src\test\resources
+2018-04-15 13:55:46,809 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:46,809 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:46,810 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-04-15 13:55:46,819 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:46,820 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.dynamic.route\src\test\resources
+2018-04-15 13:55:47,804 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:47,804 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:55:47,806 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:47,807 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:47,808 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.eureka.server\src\test\resources
+2018-04-15 13:55:48,653 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:48,653 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:55:48,659 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:48,661 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:48,661 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.move.server\src\test\resources
+2018-04-15 13:55:50,161 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:50,161 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:55:50,163 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:50,165 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:50,166 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.move.server1\src\test\resources
+2018-04-15 13:55:50,633 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:50,633 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 13:55:50,634 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:55:50,637 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 13:55:50,637 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 13:59:55,523 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-parent/1.3.7.RELEASE/spring-boot-starter-parent-1.3.7.RELEASE.pom
+2018-04-15 13:59:55,691 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-parent/1.3.7.RELEASE/spring-boot-starter-parent-1.3.7.RELEASE.pom
+2018-04-15 13:59:55,887 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-dependencies/1.3.7.RELEASE/spring-boot-dependencies-1.3.7.RELEASE.pom
+2018-04-15 13:59:56,279 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-dependencies/1.3.7.RELEASE/spring-boot-dependencies-1.3.7.RELEASE.pom
+2018-04-15 13:59:56,588 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.2.7.RELEASE/spring-framework-bom-4.2.7.RELEASE.pom
+2018-04-15 13:59:56,740 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-framework-bom/4.2.7.RELEASE/spring-framework-bom-4.2.7.RELEASE.pom
+2018-04-15 13:59:56,906 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/spring-data-releasetrain/Gosling-SR4/spring-data-releasetrain-Gosling-SR4.pom
+2018-04-15 13:59:57,050 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/spring-data-releasetrain/Gosling-SR4/spring-data-releasetrain-Gosling-SR4.pom
+2018-04-15 13:59:57,235 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/build/spring-data-build/1.7.4.RELEASE/spring-data-build-1.7.4.RELEASE.pom
+2018-04-15 13:59:57,407 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/data/build/spring-data-build/1.7.4.RELEASE/spring-data-build-1.7.4.RELEASE.pom
+2018-04-15 13:59:58,788 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/2.5/maven-jar-plugin-2.5.jar
+2018-04-15 13:59:59,053 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/2.5/maven-jar-plugin-2.5.jar
+2018-04-15 13:59:59,258 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-site-plugin/3.4/maven-site-plugin-3.4.jar
+2018-04-15 13:59:59,942 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-site-plugin/3.4/maven-site-plugin-3.4.jar
+2018-04-15 14:00:00,264 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 14:00:00,471 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-amqp/1.3.7.RELEASE/spring-boot-starter-amqp-1.3.7.RELEASE.pom
+2018-04-15 14:00:00,598 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-amqp/1.3.7.RELEASE/spring-boot-starter-amqp-1.3.7.RELEASE.pom
+2018-04-15 14:00:00,891 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starters/1.3.7.RELEASE/spring-boot-starters-1.3.7.RELEASE.pom
+2018-04-15 14:00:01,040 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starters/1.3.7.RELEASE/spring-boot-starters-1.3.7.RELEASE.pom
+2018-04-15 14:00:01,420 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-parent/1.3.7.RELEASE/spring-boot-parent-1.3.7.RELEASE.pom
+2018-04-15 14:00:01,709 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-parent/1.3.7.RELEASE/spring-boot-parent-1.3.7.RELEASE.pom
+2018-04-15 14:00:02,242 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter/1.3.7.RELEASE/spring-boot-starter-1.3.7.RELEASE.pom
+2018-04-15 14:00:02,354 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter/1.3.7.RELEASE/spring-boot-starter-1.3.7.RELEASE.pom
+2018-04-15 14:00:02,618 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot/1.3.7.RELEASE/spring-boot-1.3.7.RELEASE.pom
+2018-04-15 14:00:02,763 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot/1.3.7.RELEASE/spring-boot-1.3.7.RELEASE.pom
+2018-04-15 14:00:02,904 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-core/4.2.7.RELEASE/spring-core-4.2.7.RELEASE.pom
+2018-04-15 14:00:03,010 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-core/4.2.7.RELEASE/spring-core-4.2.7.RELEASE.pom
+2018-04-15 14:00:03,163 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-context/4.2.7.RELEASE/spring-context-4.2.7.RELEASE.pom
+2018-04-15 14:00:03,305 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-context/4.2.7.RELEASE/spring-context-4.2.7.RELEASE.pom
+2018-04-15 14:00:03,485 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-aop/4.2.7.RELEASE/spring-aop-4.2.7.RELEASE.pom
+2018-04-15 14:00:03,609 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-aop/4.2.7.RELEASE/spring-aop-4.2.7.RELEASE.pom
+2018-04-15 14:00:03,765 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-beans/4.2.7.RELEASE/spring-beans-4.2.7.RELEASE.pom
+2018-04-15 14:00:03,856 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-beans/4.2.7.RELEASE/spring-beans-4.2.7.RELEASE.pom
+2018-04-15 14:00:04,041 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-expression/4.2.7.RELEASE/spring-expression-4.2.7.RELEASE.pom
+2018-04-15 14:00:04,215 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-expression/4.2.7.RELEASE/spring-expression-4.2.7.RELEASE.pom
+2018-04-15 14:00:04,846 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-autoconfigure/1.3.7.RELEASE/spring-boot-autoconfigure-1.3.7.RELEASE.pom
+2018-04-15 14:00:06,396 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-autoconfigure/1.3.7.RELEASE/spring-boot-autoconfigure-1.3.7.RELEASE.pom
+2018-04-15 14:00:06,699 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-logging/1.3.7.RELEASE/spring-boot-starter-logging-1.3.7.RELEASE.pom
+2018-04-15 14:00:07,011 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-logging/1.3.7.RELEASE/spring-boot-starter-logging-1.3.7.RELEASE.pom
+2018-04-15 14:00:07,346 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/yaml/snakeyaml/1.16/snakeyaml-1.16.pom
+2018-04-15 14:00:07,791 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/yaml/snakeyaml/1.16/snakeyaml-1.16.pom
+2018-04-15 14:00:08,001 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-messaging/4.2.7.RELEASE/spring-messaging-4.2.7.RELEASE.pom
+2018-04-15 14:00:08,107 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-messaging/4.2.7.RELEASE/spring-messaging-4.2.7.RELEASE.pom
+2018-04-15 14:00:08,221 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-rabbit/1.5.6.RELEASE/spring-rabbit-1.5.6.RELEASE.pom
+2018-04-15 14:00:08,318 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-rabbit/1.5.6.RELEASE/spring-rabbit-1.5.6.RELEASE.pom
+2018-04-15 14:00:08,423 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-amqp/1.5.6.RELEASE/spring-amqp-1.5.6.RELEASE.pom
+2018-04-15 14:00:08,528 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-amqp/1.5.6.RELEASE/spring-amqp-1.5.6.RELEASE.pom
+2018-04-15 14:00:08,688 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-tx/4.2.7.RELEASE/spring-tx-4.2.7.RELEASE.pom
+2018-04-15 14:00:08,780 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-tx/4.2.7.RELEASE/spring-tx-4.2.7.RELEASE.pom
+2018-04-15 14:00:08,913 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-databind/2.6.7/jackson-databind-2.6.7.pom
+2018-04-15 14:00:09,042 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-databind/2.6.7/jackson-databind-2.6.7.pom
+2018-04-15 14:00:09,151 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/jackson-parent/2.6.2/jackson-parent-2.6.2.pom
+2018-04-15 14:00:09,251 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/jackson-parent/2.6.2/jackson-parent-2.6.2.pom
+2018-04-15 14:00:09,376 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-annotations/2.6.7/jackson-annotations-2.6.7.pom
+2018-04-15 14:00:09,466 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-annotations/2.6.7/jackson-annotations-2.6.7.pom
+2018-04-15 14:00:09,586 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom
+2018-04-15 14:00:09,707 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom
+2018-04-15 14:00:09,845 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/oss-parent/23/oss-parent-23.pom
+2018-04-15 14:00:10,041 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/oss-parent/23/oss-parent-23.pom
+2018-04-15 14:00:10,154 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-core/2.6.7/jackson-core-2.6.7.pom
+2018-04-15 14:00:10,308 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-core/2.6.7/jackson-core-2.6.7.pom
+2018-04-15 14:00:10,467 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-web/4.2.7.RELEASE/spring-web-4.2.7.RELEASE.pom
+2018-04-15 14:00:10,589 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-web/4.2.7.RELEASE/spring-web-4.2.7.RELEASE.pom
+2018-04-15 14:00:11,262 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/amqp-client/3.5.7/amqp-client-3.5.7.pom
+2018-04-15 14:00:11,374 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/amqp-client/3.5.7/amqp-client-3.5.7.pom
+2018-04-15 14:00:11,555 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-test/1.3.7.RELEASE/spring-boot-starter-test-1.3.7.RELEASE.pom
+2018-04-15 14:00:11,671 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-test/1.3.7.RELEASE/spring-boot-starter-test-1.3.7.RELEASE.pom
+2018-04-15 14:00:11,825 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-test/4.2.7.RELEASE/spring-test-4.2.7.RELEASE.pom
+2018-04-15 14:00:12,042 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-test/4.2.7.RELEASE/spring-test-4.2.7.RELEASE.pom
+2018-04-15 14:00:12,190 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-amqp/1.3.7.RELEASE/spring-boot-starter-amqp-1.3.7.RELEASE.jar
+2018-04-15 14:00:12,283 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-amqp/1.3.7.RELEASE/spring-boot-starter-amqp-1.3.7.RELEASE.jar
+2018-04-15 14:00:12,408 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter/1.3.7.RELEASE/spring-boot-starter-1.3.7.RELEASE.jar
+2018-04-15 14:00:12,495 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter/1.3.7.RELEASE/spring-boot-starter-1.3.7.RELEASE.jar
+2018-04-15 14:00:12,619 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot/1.3.7.RELEASE/spring-boot-1.3.7.RELEASE.jar
+2018-04-15 14:00:14,776 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot/1.3.7.RELEASE/spring-boot-1.3.7.RELEASE.jar
+2018-04-15 14:00:14,918 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-autoconfigure/1.3.7.RELEASE/spring-boot-autoconfigure-1.3.7.RELEASE.jar
+2018-04-15 14:00:16,173 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-autoconfigure/1.3.7.RELEASE/spring-boot-autoconfigure-1.3.7.RELEASE.jar
+2018-04-15 14:00:16,292 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-logging/1.3.7.RELEASE/spring-boot-starter-logging-1.3.7.RELEASE.jar
+2018-04-15 14:00:16,398 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-logging/1.3.7.RELEASE/spring-boot-starter-logging-1.3.7.RELEASE.jar
+2018-04-15 14:00:16,523 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/yaml/snakeyaml/1.16/snakeyaml-1.16.jar
+2018-04-15 14:00:16,850 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/yaml/snakeyaml/1.16/snakeyaml-1.16.jar
+2018-04-15 14:00:16,974 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-messaging/4.2.7.RELEASE/spring-messaging-4.2.7.RELEASE.jar
+2018-04-15 14:00:17,360 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-messaging/4.2.7.RELEASE/spring-messaging-4.2.7.RELEASE.jar
+2018-04-15 14:00:17,476 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-beans/4.2.7.RELEASE/spring-beans-4.2.7.RELEASE.jar
+2018-04-15 14:00:18,097 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-beans/4.2.7.RELEASE/spring-beans-4.2.7.RELEASE.jar
+2018-04-15 14:00:18,210 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-context/4.2.7.RELEASE/spring-context-4.2.7.RELEASE.jar
+2018-04-15 14:00:18,867 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-context/4.2.7.RELEASE/spring-context-4.2.7.RELEASE.jar
+2018-04-15 14:00:18,982 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-aop/4.2.7.RELEASE/spring-aop-4.2.7.RELEASE.jar
+2018-04-15 14:00:19,226 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-aop/4.2.7.RELEASE/spring-aop-4.2.7.RELEASE.jar
+2018-04-15 14:00:19,339 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-expression/4.2.7.RELEASE/spring-expression-4.2.7.RELEASE.jar
+2018-04-15 14:00:19,543 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-expression/4.2.7.RELEASE/spring-expression-4.2.7.RELEASE.jar
+2018-04-15 14:00:19,676 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-rabbit/1.5.6.RELEASE/spring-rabbit-1.5.6.RELEASE.jar
+2018-04-15 14:00:19,931 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-rabbit/1.5.6.RELEASE/spring-rabbit-1.5.6.RELEASE.jar
+2018-04-15 14:00:20,053 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-amqp/1.5.6.RELEASE/spring-amqp-1.5.6.RELEASE.jar
+2018-04-15 14:00:20,200 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/amqp/spring-amqp/1.5.6.RELEASE/spring-amqp-1.5.6.RELEASE.jar
+2018-04-15 14:00:20,343 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-tx/4.2.7.RELEASE/spring-tx-4.2.7.RELEASE.jar
+2018-04-15 14:00:20,592 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-tx/4.2.7.RELEASE/spring-tx-4.2.7.RELEASE.jar
+2018-04-15 14:00:20,697 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-databind/2.6.7/jackson-databind-2.6.7.jar
+2018-04-15 14:00:22,357 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-databind/2.6.7/jackson-databind-2.6.7.jar
+2018-04-15 14:00:22,494 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-annotations/2.6.7/jackson-annotations-2.6.7.jar
+2018-04-15 14:00:22,649 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-annotations/2.6.7/jackson-annotations-2.6.7.jar
+2018-04-15 14:00:22,822 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-core/2.6.7/jackson-core-2.6.7.jar
+2018-04-15 14:00:23,058 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/fasterxml/jackson/core/jackson-core/2.6.7/jackson-core-2.6.7.jar
+2018-04-15 14:00:23,214 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-web/4.2.7.RELEASE/spring-web-4.2.7.RELEASE.jar
+2018-04-15 14:00:23,661 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-web/4.2.7.RELEASE/spring-web-4.2.7.RELEASE.jar
+2018-04-15 14:00:23,852 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/amqp-client/3.5.7/amqp-client-3.5.7.jar
+2018-04-15 14:00:24,699 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/rabbitmq/amqp-client/3.5.7/amqp-client-3.5.7.jar
+2018-04-15 14:00:24,848 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-test/1.3.7.RELEASE/spring-boot-starter-test-1.3.7.RELEASE.jar
+2018-04-15 14:00:24,943 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/boot/spring-boot-starter-test/1.3.7.RELEASE/spring-boot-starter-test-1.3.7.RELEASE.jar
+2018-04-15 14:00:25,076 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-core/4.2.7.RELEASE/spring-core-4.2.7.RELEASE.jar
+2018-04-15 14:00:25,895 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-core/4.2.7.RELEASE/spring-core-4.2.7.RELEASE.jar
+2018-04-15 14:00:26,019 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-test/4.2.7.RELEASE/spring-test-4.2.7.RELEASE.jar
+2018-04-15 14:00:26,408 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-test/4.2.7.RELEASE/spring-test-4.2.7.RELEASE.jar
+2018-04-15 14:00:28,104 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.move.server:cn.foreverking.move.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.move.server\pom.xml.
+2018-04-15 14:00:28,835 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.api-geteway:cn.foreverking.api-geteway:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.api-geteway\pom.xml.
+2018-04-15 14:00:29,079 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.move.server:cn.foreverking.move.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.move.server1\pom.xml.
+2018-04-15 14:00:29,237 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.config.server:cn.foreverking.config.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.config.server\pom.xml.
+2018-04-15 14:00:29,452 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.custommer.server:cn.foreverking.custommer.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.customer.server\pom.xml.
+2018-04-15 14:00:29,688 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.dynamic.route:cn.foreverking.dynamic.route:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.dynamic.route\pom.xml.
+2018-04-15 14:00:29,915 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.eureka.server:cn.foreverking.eureka.server:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.eureka.server\pom.xml.
+2018-04-15 14:00:32,190 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/2.5/maven-jar-plugin-2.5.pom
+2018-04-15 14:00:32,280 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-jar-plugin/2.5/maven-jar-plugin-2.5.pom
+2018-04-15 14:00:32,415 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-plugins/25/maven-plugins-25.pom
+2018-04-15 14:00:32,532 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/maven/plugins/maven-plugins/25/maven-plugins-25.pom
+2018-04-15 14:00:32,639 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:32,641 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:32,642 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:32,644 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:32,645 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:32,956 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-archiver/2.4.4/plexus-archiver-2.4.4.pom
+2018-04-15 14:00:33,088 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-archiver/2.4.4/plexus-archiver-2.4.4.pom
+2018-04-15 14:00:33,202 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-io/2.0.10/plexus-io-2.0.10.pom
+2018-04-15 14:00:33,283 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-io/2.0.10/plexus-io-2.0.10.pom
+2018-04-15 14:00:33,421 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/commons/commons-compress/1.5/commons-compress-1.5.pom
+2018-04-15 14:00:33,551 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/commons/commons-compress/1.5/commons-compress-1.5.pom
+2018-04-15 14:00:33,687 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/commons/commons-parent/28/commons-parent-28.pom
+2018-04-15 14:00:33,963 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/commons/commons-parent/28/commons-parent-28.pom
+2018-04-15 14:00:34,090 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/tukaani/xz/1.2/xz-1.2.pom
+2018-04-15 14:00:34,223 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/tukaani/xz/1.2/xz-1.2.pom
+2018-04-15 14:00:34,352 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+2018-04-15 14:00:34,870 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+2018-04-15 14:00:34,964 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-archiver/2.4.4/plexus-archiver-2.4.4.jar
+2018-04-15 14:00:35,200 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-archiver/2.4.4/plexus-archiver-2.4.4.jar
+2018-04-15 14:00:35,291 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-io/2.0.10/plexus-io-2.0.10.jar
+2018-04-15 14:00:35,401 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/codehaus/plexus/plexus-io/2.0.10/plexus-io-2.0.10.jar
+2018-04-15 14:00:35,510 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/commons/commons-compress/1.5/commons-compress-1.5.jar
+2018-04-15 14:00:35,792 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/commons/commons-compress/1.5/commons-compress-1.5.jar
+2018-04-15 14:00:35,884 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/tukaani/xz/1.2/xz-1.2.jar
+2018-04-15 14:00:36,035 [Worker-27] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/tukaani/xz/1.2/xz-1.2.jar
+2018-04-15 14:00:38,590 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:38,596 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:38,596 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:38,599 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:38,600 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.api-geteway\src\test\resources
+2018-04-15 14:00:39,278 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:39,279 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:39,279 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:39,281 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:39,281 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.config.server\src\test\resources
+2018-04-15 14:00:39,850 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:39,850 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:39,850 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:39,851 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:39,852 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.customer.server\src\test\resources
+2018-04-15 14:00:40,643 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:40,643 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:40,643 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:40,645 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:40,645 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.dynamic.route\src\test\resources
+2018-04-15 14:00:41,326 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:41,326 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:41,326 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:41,328 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:41,328 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.eureka.server\src\test\resources
+2018-04-15 14:00:41,952 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:41,953 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:41,953 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:41,955 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:41,955 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.move.server\src\test\resources
+2018-04-15 14:00:42,785 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:42,785 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:42,786 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:42,788 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:42,789 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\springcloud\cn.foreverking.move.server1\src\test\resources
+2018-04-15 14:00:43,224 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:43,226 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 14:00:43,240 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:00:43,242 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:00:43,243 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:03:29,080 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:03:29,080 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:03:29,080 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:03:29,082 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:03:29,082 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:03:54,651 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:03:54,652 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:03:54,652 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:03:54,654 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:03:54,654 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:04:07,728 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:04:07,728 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:04:07,729 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:04:07,731 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:04:07,731 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:04:13,475 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:04:13,475 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:04:13,476 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:04:13,482 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:04:13,483 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:04:20,791 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:04:20,792 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:04:20,792 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:04:20,794 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:04:20,794 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:05:11,623 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-04-15 14:05:12,001 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cn.foreverking.rabbitmq:cn.foreverking.rabbitmq:0.0.1-SNAPSHOT @ D:\springcloud\cn.foreverking.rabbitmq\pom.xml.
+2018-04-15 14:05:12,285 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/main/java
+2018-04-15 14:05:12,286 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 14:05:12,286 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/main/resources
+2018-04-15 14:05:12,287 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cn.foreverking.rabbitmq/src/test/java
+2018-04-15 14:05:12,287 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cn.foreverking.rabbitmq/src/test/resources
+2018-04-15 14:05:12,690 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-04-15 14:05:13,205 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:05:13,206 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 14:05:13,222 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:05:13,226 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:05:13,226 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:08:00,772 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:08:00,774 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 14:08:00,776 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:08:00,778 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:08:00,779 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:08:07,653 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:08:07,654 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 14:08:07,656 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:08:07,658 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:08:07,658 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:15:13,868 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:15:13,868 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-04-15 14:15:13,870 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-04-15 14:15:13,872 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-04-15 14:15:13,873 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

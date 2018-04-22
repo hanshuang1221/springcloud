@@ -64,14 +64,17 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="cn.foreverking.rabbitmq"/>
 			<item value="cn.foreverking.config.server"/>
 			<item value="cn.foreverking.dynamic.route"/>
 		</list>
 		<list key="groupId">
+			<item value="cn.foreverking.rabbitmq"/>
 			<item value="cn.foreverking.config.server"/>
 			<item value="cn.foreverking.dynamic.route"/>
 		</list>
 		<list key="artifactId">
+			<item value="cn.foreverking.rabbitmq"/>
 			<item value="cn.foreverking.config.server"/>
 			<item value="cn.foreverking.dynamic.route"/>
 		</list>
